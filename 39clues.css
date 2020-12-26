@@ -1,0 +1,35 @@
+h1 {
+    background: linear-gradient(to right, red, orange, green, cyan, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    text-align: center;
+}
+
+h4 {
+    background: linear-gradient(to right, red, orange, green, cyan, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+}
+
+div {
+    background: linear-gradient(to right, red, orange, green, cyan, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+    text-align: right;
+}
+
+a {
+    background: linear-gradient(to right, red, orange, green, cyan, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-style: italic;
+}
+
+h6 {
+    background: linear-gradient(to right, red, orange, green, cyan, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
